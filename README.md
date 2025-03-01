@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 )&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/github/stars/Mashiro009?logo=github&color=pink) 
 
 
-My name is Haoxu Wang (王浩旭). I'm now a researcher of Speech Lab, Tongyi Lab, Alibaba group. I recieved the Master degree at the School of Computer Science, Wuhan University under the supervision of Prof. [Ming Li](https://sites.duke.edu/dkusmiip/), in 2024. I received the B.E. degree in software engineering at the School of Computer Science, Wuhan University, in 2021. My research interests include speech enhancemnet,  keyword spotting, multi-modal keyword spotting and speech recognition, and deep learning.
+My name is Haoxu Wang (王浩旭). I'm now a researcher of Speech Lab, Tongyi Lab, Alibaba group. I recieved the Master degree at the School of Computer Science, Wuhan University under the supervision of Prof. [Ming Li](https://sites.duke.edu/dkusmiip/), in 2024. I received the B.E. degree in software engineering at the School of Computer Science, Wuhan University, in 2021. 
+
+My research interests include speech enhancemnet,  keyword spotting, multi-modal keyword spotting and speech recognition, and deep learning.
 
 
