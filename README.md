@@ -27,3 +27,4 @@ My name is Haoxu Wang (王浩旭). I'm now a researcher of Speech Lab, Tongyi La
 My research interests include speech enhancemnet/separation, keyword spotting, multi-modal keyword spotting, speech recognition, and deep learning.
 
 
+[Google Scholar](https://scholar.google.com/citations?user=z3ixxP4AAAAJ)
